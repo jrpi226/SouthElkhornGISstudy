@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+# **South Elkhorn GIS Mapping Final**
+This is a display of the two maps, options 1 and 2, created by John Pike for Geo 409. My study area is the South Elkhorn Creek which is in the part of the South Elkhorn watershed in Lexington, KY. I selected this area of study because I work to collect water quality data at this site. We collect data to understand how nitrogen concentrations fluctuate on daily, monthly, and yearly timescales, and against changes in turbidity. Below are my two maps of the upstream area to the data collection point. Included in the maps are some of Lexington's flat pasture and farmland. The topography slopes from the east to the west, towards the stream. Any fertilizer sprayed on the farm may find its way in the stream. 
 
-You can use the [editor on GitHub](https://github.com/jrpi226/SouthElkhornGISstudy/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[Map Option 1: BaseLayer](https://github.com/jrpi226/SouthElkhornGISstudy/blob/master/SEBasemap/SouthElkhornDEMLayout.jpg)
+Map Option 1: BaseLayer
+My first map is a base-map of the area. It shows KY NAIP 2018 2ft imagery overlaid with a DEM layer and a circle of 1000ft radius showing the target area where I have a las dataset. The DEM layer was made from the las dataset. I chose to use a DEM layer instead of a hill-shade layer because I believe it best shows the changes in elevation, and highlights the low elevation near the stream. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Map Option 2: Digital Surface Model](https://github.com/jrpi226/SouthElkhornGISstudy/blob/master/SECanopy/SECanopyLayout.jpg)
+My second map is a digital surface model of the area. It shows KY NAIP 2018 2ft imagery overlaid with a hill-shade layer. Highlighted in yellow to red gradient are all trees and buildings greater than 20 feet tall. You can see a cluster of tall trees in the northeast corner of the map. These trees follow the streamline of South Elkhorn Creek. 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jrpi226/SouthElkhornGISstudy/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
