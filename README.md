@@ -8,7 +8,8 @@ View of USGS Box at SE
 View of Upstream South Elkhorn Creek
 
 ![View From Down in the Creek](https://github.com/jrpi226/SouthElkhornGISstudy/blob/master/JohnBridgeCrop.PNG)
-View From Down in the Creek
+    
+    View From Down in the Creek
 
 ![Map Option 1: BaseLayer Contour Map Upstream of the Project Area](https://github.com/jrpi226/SouthElkhornGISstudy/blob/master/SEBasemap/SEhillshade.jpg)
 Map Option 1: BaseLayer
