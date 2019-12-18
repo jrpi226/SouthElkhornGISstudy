@@ -20,4 +20,5 @@ Map Option 2: Digital Surface Model
 
 My second map is a digital surface model of the area. It shows KY NAIP 2018 2ft imagery overlaid with a hill-shade layer. Highlighted in yellow to red gradient are all trees and buildings greater than 20 feet tall. You can see a cluster of tall trees in the northeast corner of the map. These trees follow the streamline of South Elkhorn Creek. 
 
-![Map Option 5: 3D Animation of Pointcloud](https://youtu.be/yfTLRrSUrzU)
+Map Option 5: 3D Animation of Pointcloud
+https://youtu.be/yfTLRrSUrzU
