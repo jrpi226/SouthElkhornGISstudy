@@ -13,12 +13,12 @@ View From Down in the Creek
 ![Map Option 1: BaseLayer](https://github.com/jrpi226/SouthElkhornGISstudy/blob/master/SEBasemap/SEhillshade.jpg)
 Map Option 1: BaseLayer
 
-My first map is a base-map of the area. It shows KY NAIP 2018 2ft imagery overlaid with a hill-shade layer and a circle of 1000ft radius showing the target area where I have a las dataset. The hill-shade layer was made from a DEM layer which was made from the las dataset. I chose to add contour lines to my map to visualize the flow direction of rnoff towards the stream. 
+My first map is a base-map of the area. It shows KY NAIP 2018 2ft imagery overlaid with a hill-shade layer and a circle of 1000ft radius showing the target area where I have a las dataset. The hill-shade layer was made from a DEM layer which was made from the las dataset. I chose to add contour lines to my map to visualize the flow direction of rnoff towards the stream. Kentucky Watersheds map is from kyforward.com.
 
 ![Map Option 2: Digital Surface Model](https://github.com/jrpi226/SouthElkhornGISstudy/blob/master/SECanopy/SE%20Canopy%20Layout_Ground.jpg)
 Map Option 2: Digital Surface Model
 
-My second map is a digital surface model of the area. It shows KY NAIP 2018 2ft imagery overlaid with a hill-shade layer. Highlighted in yellow to red gradient are all trees and buildings greater than 20 feet tall. You can see a cluster of tall trees in the northeast corner of the map. These trees follow the streamline of South Elkhorn Creek. 
+My second map is a digital surface model of the area. It shows KY NAIP 2018 2ft imagery overlaid with a hill-shade layer. Highlighted in yellow to red gradient are all trees and buildings greater than 20 feet tall. You can see a cluster of tall trees in the northeast corner of the map. These trees follow the streamline of South Elkhorn Creek. Kentucky Watersheds map is from kyforward.com. 
 
 Map Option 5: 3D Animation of Pointcloud
 https://youtu.be/yfTLRrSUrzU
